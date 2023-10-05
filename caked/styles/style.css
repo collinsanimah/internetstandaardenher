@@ -1,0 +1,145 @@
+body {
+
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+
+}
+
+main img {
+    width: 100%;
+    height: auto;
+}
+
+main section button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    width: 20em;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+}
+
+button:hover {
+    opacity: 50%;
+    transition: 0.5s;
+}
+a:hover {
+    opacity: 80%;
+    transition: 0.5s;
+}
+
+main button a {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+main section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+
+
+
+
+header {
+    background-color: rgb(0, 0, 0);
+    margin: 0em;
+    border: 0em;
+    padding: 0em;
+}
+
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+header nav ul li {
+    padding: 10px;
+    margin: 1em;
+
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+}
+
+.recipes {
+    list-style: none;
+}
+
+main nav ul {
+    display: flex;
+}
+
+main ul li {
+    padding: 10px;
+
+}
+
+main ul li a {
+    text-decoration: none;
+    list-style: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+
+
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding: 1em;
+    color: white;
+    margin: 0em;
+}
+
+header nav ul img {
+    width: auto;
+    height: 2em;
+}
+
+.banners {
+    
+    display: flex;
+    align-items: center;
+
+}
+
+.banners1 {
+    
+    display: flex;
+    align-items: center;
+
+}
+
+.banners2 {
+    
+    display: flex;
+    align-items: center;
+
+}
+
